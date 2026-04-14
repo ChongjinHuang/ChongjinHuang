@@ -10,7 +10,7 @@
 | :--- | :--- |
 | **编程语言** | Python, C++ , SQL |
 | **深度学习/推理** | PyTorch, |
-| **AI 应用开发** | LazyLLM, opencode-context-optimizer |
+| **AI 应用开发** | LazyLLM, LazyRAG, opencode |
 
 ---
 
